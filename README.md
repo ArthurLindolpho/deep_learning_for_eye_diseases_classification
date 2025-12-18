@@ -8,11 +8,17 @@ conseguem obter os melhores resultados.
 Membros do grupo:
 
 Arthur Tavares Lindolpho
+
 Estevão dos Santos Mello
+
 Cauã Gomes 
+
 Guilherme Alves
+
 Marcelo Ângelo
+
 Nicolas Ouverney
+
 
 Datasets utilizados no trabalho:
 
